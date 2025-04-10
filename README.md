@@ -3,7 +3,7 @@
 
 
 ![image](https://github.com/user-attachments/assets/0ba1bd2d-7f76-4aa0-b63a-b23ca23b5cb1)
-Рисунок 2 - Результат работы программы (для клиента)
+Рисунок 2 - Результат работы программы (для одного из клиентов)
 
 
 ![image](https://github.com/user-attachments/assets/f8f03563-2d08-4e2c-b3ff-8ea74df2dab8)
